@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 No new feaatures will be created.
+=======
+This file has some new text.
+>>>>>>> features
