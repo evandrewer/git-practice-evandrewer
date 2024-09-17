@@ -1,0 +1,14 @@
+39b3570 Merge pull request #1 from ThunderUp2002/feature-ThunderUp2002
+94bcd6c Create new file
+a9d6000 resolved conflict
+8a4beb1 changed new features text again
+8c33d3b changed new features text
+b31a093 Merge branch 'features'
+e328dbd added some text to file_1
+54358d3 added text to empty file
+8eb9dc2 add empty file
+ed487a5 edited .gitignore file
+958fe17 Added Readme file
+10add20 added text to file_2
+f9c900f added text to file_1
+c4ede65 create new files

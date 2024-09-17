@@ -1,0 +1,41 @@
+    1  git config --global user.name "Everett Andrew"
+    2  git config --global user.email ea272@byu.edu
+    3  git --version
+    4  git config --global user.email etarocks@gmail.com
+    5  git config --global init.defaultBranch main
+    6  git init
+    8  git --version
+    9  git status
+   10  git config --global core.editor "code --wait"
+   11  git config --list
+   20  git init
+   21  mkdir git-practice-evandrewer
+   29  git init
+   30  mkdir git-repo-evandrewer
+   31  git init
+   46  git log
+   49  git init
+   57  git clone git@github.com:evandrewer/git-practice-ThunderUp2002-fork.git
+   59  rm git-practice-ThunderUp2002-fork
+   60  rm -r git-practice-ThunderUp2002-fork
+   61  rmdir git-practice-ThunderUp2002-fork
+   63  cd git-practice-ThunderUp2002-fork
+   66  rm -r git-practice-ThunderUp2002-fork
+   69  git clone git@github.com:evandrewer/git-practice-ThunderUp2002-fork.git
+   73  cd git-practice-ThunderUp2002-fork
+   75  git branch
+   76  git branch feature-evandrewer
+   77  git branch
+   78  git switch feature-evandrewer
+   81  git add .
+   82  git status
+   84  git status
+   85  git commit -m "added file"
+   86  git add .
+   87  git commit -m "added contents to file"
+   89  git push origin feature-evandrewer
+   90  git pull
+   92  cd git-practice-evandrewer
+   94  git pull
+   97  git log --oneline > gitlog.txt
+   98  history | grep git > history.txt
