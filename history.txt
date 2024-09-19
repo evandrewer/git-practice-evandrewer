@@ -13,6 +13,20 @@
    29  git init
    30  mkdir git-repo-evandrewer
    31  git init
+   32  touch file_1.txt
+   33  git status
+   34  git add file_1.txt
+   35  git status
+   36  touch file_2.txt
+   37  git add file_2.txt
+   38  git status
+   39  git commit -m "create new files"
+   40  git status
+   41  git log
+   42  nano file_1.txt
+   43  git add file_1.txt
+   44  git status
+   45  git commit -m "added text to file_1"
    46  git log
    49  git init
    57  git clone git@github.com:evandrewer/git-practice-ThunderUp2002-fork.git
