@@ -28,7 +28,10 @@
    44  git status
    45  git commit -m "added text to file_1"
    46  git log
-   49  git init
+   47  git init
+   48  nano file_2.txt
+   49  git add file_2.txt
+   50  git commit -m "added text to file_2"
    57  git clone git@github.com:evandrewer/git-practice-ThunderUp2002-fork.git
    59  rm git-practice-ThunderUp2002-fork
    60  rm -r git-practice-ThunderUp2002-fork
@@ -41,6 +44,8 @@
    76  git branch feature-evandrewer
    77  git branch
    78  git switch feature-evandrewer
+   79  git switch main
+   80  git switch feature-evandrewer
    81  git add .
    82  git status
    84  git status
