@@ -35,7 +35,8 @@
    51  git branch features
    52  git switch features
    53  git switch main
-   56  git merge features
+   54  git merge features
+   55  git merge features
    57  git clone git@github.com:evandrewer/git-practice-ThunderUp2002-fork.git
    59  rm git-practice-ThunderUp2002-fork
    60  rm -r git-practice-ThunderUp2002-fork
